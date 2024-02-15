@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HDSE from Aptech Pakistan**
 
-- 👨‍💻 All of my projects are available at [asifbyportfolio.netlify.app](asifbyportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at https://asifbyportfolio.netlify.app/
 
 - 📫 How to reach me **Jonnyasif5@gmail.com**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
